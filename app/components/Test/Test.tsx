@@ -21,8 +21,7 @@ const TOTAL_QUESTIONS: number = 50;
 
 export default function Test() {
   const [questions, setQuestions] = useState<Question[]>([]);
-  const [currentIndex, setCurrentIndex] = useState<number>(0);
-  const [usedIndexes, setUsedIndexes] = useState<Set<number>>(new Set());
+    const [usedIndexes, setUsedIndexes] = useState<Set<number>>(new Set());
   const [currentQuestion, setCurrentQuestion] = useState<Question | null>(null);
   const [correctCount, setCorrectCount] = useState<number>(0);
   const [incorrectCount, setIncorrectCount] = useState<number>(0);
@@ -40,8 +39,7 @@ export default function Test() {
     if (questions.length === 0) return;
     const index = getRandomIndex();
     setUsedIndexes(new Set([index]));
-    setCurrentIndex(index);
-    setCurrentQuestion(questions[index]);
+        setCurrentQuestion(questions[index]);
     setCorrectCount(0);
     setIncorrectCount(0);
     setSelectedAnswer(null);
@@ -72,8 +70,7 @@ export default function Test() {
     const newSet = new Set(usedIndexes);
     newSet.add(index);
     setUsedIndexes(newSet);
-    setCurrentIndex(index);
-    setCurrentQuestion(questions[index]);
+        setCurrentQuestion(questions[index]);
     setSelectedAnswer(null);
   };
 
