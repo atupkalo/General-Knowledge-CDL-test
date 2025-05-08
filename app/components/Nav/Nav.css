@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+.nav-item{
+    color: #ffffff;
+    transition: .3s;
+}
+.nav-item:hover{
+    text-decoration: underline;
+}

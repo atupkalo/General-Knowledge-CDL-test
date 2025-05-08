@@ -1,0 +1,19 @@
+.footer{
+    width: 100%;
+    background: #050505;
+    padding: 8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    bottom: 0;
+    color: rgb(255, 255, 255);
+}
+.footer-span{
+    margin: 0 2px;
+}
+.footer-link{
+    color: aqua!important;
+}

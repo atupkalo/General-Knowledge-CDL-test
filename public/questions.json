@@ -1,0 +1,5313 @@
+[
+    {
+    "number": "1",
+    "question": "You are driving on a straight, level highway 50 mph. There are no vehicles in front of you. Suddenly a tire blows out on your vehicle. What should you do first?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Stay off the brake until the vehicle has slowed down",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Quickly steer onto the shoulder",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Begin light braking",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Begin emergency braking",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "2",
+    "question": "You are driving a new truck with manual transmission. What gear will you probably have to use to take a long, steep downhill grade?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The same gear you would use to climb the hill",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "A lower gear then you would use to climb the hill",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "A higher gear then you would use to climb the hill",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Never, newer trucks can coast down hills",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "3",
+    "question": "You are checking your wheels and rims for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Rust around wheel nuts may mean that they are loose",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Cracked wheels or rims can be used if they have been welded",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A vehicle can be safely driven with one missing lug on a wheel",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Mismatched lock ring can be used on the same vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "4",
+    "question": "You are checking your tires for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Dual tires should be touching each other",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Tires of mismatched sizes should not be used together in the same vehicle",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Radial and bias-ply tires can be used together on the same vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "2/23-inch trend depth is safe for the front tires",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "5",
+    "question": "If a straight vehicle (not trailer or articulation) goes into front-wheel skid, it will:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Slide sideways and spin out",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Slide sideways somewhat, but not spin out",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Go straight ahead even if the steering wheel is turned",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Go straight ahead but will turn if you turn the steering wheel",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "6",
+    "question": "If you need to leave the road in a traffic emergency, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Try to get all wheel off the pavement",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Brake as hard as you leave the road",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Avoid braking until your speed has dropped to about20 mph",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Avoid the shoulder because most shoulders will not support a large vehicle",
+        "flag": false
+      }
+    ]
+  },
+    {
+    "number": "7",
+    "question": "Which of these statements about certain types of cargo is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Unstable load such as hanging meat or livestock can require extra caution on curves",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Oversize loads can be hauled without special permits during times when the roads are not busy",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Loads that consist of liquids in bulk do not cause handling problems because they are usually very heavy",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "When liquids are hauled, the tank should always be loaded totally full",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "8",
+    "question": "According to the driver\u2019s manual, why you should limit the use of your horn?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "It can startle other drivers",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "On vehicle with air brakes it can use air pressure that may be needed to stop",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The horn is not a good way to let others know you are there",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "You should keep both hands tightly gripping the steering wheel at all time",
+        "flag": false
+      }
+    ]
+  },
+    {
+    "number": "9",
+    "question": "You do not have a hazardous materials endorsement on your commercial driver\u2019s license. You are asked to deliver hazardous materials in a placarded vehicle. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Refuse to haul the load",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Take the placards off the vehicle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Haul the load but only to the nearest place where a driver with Hazardous Materials Endorsement can take over",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Haul the load but file the report with the Department of Transportation after the trip",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "10",
+    "question": "Which of these statements about staying alert to drive is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A half-hour break for coffee will do more to keep you alert than a half-hour nap",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "There are drugs that can overcome being tired",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If you must stop to take a nap, it should be at a truck stop or other rest area never on the side of the road",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Sleep is the only thing that can overcome fatigue",
+        "flag": true
+      }
+    ]
+  },
+    {
+    "number": "11",
+    "question": "Your vehicle has hydraulic brakes. While travelling on a level road, you press the brake pedal and find that it goes to the floor. Which of the statements is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should not downshift if you have an automatic transmission",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Pumping the brake pedal may bring the pressure up so you can stop the vehicle",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "The parking brake will not work either because it is part of the same hydraulic system",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "12",
+    "question": "You are driving a vehicle at 55 mph on dry pavement. About how much total stopping distance will you need to bring it to a stop?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The length of the vehicle",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Twice the length of the vehicle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Half the length of a football field",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "The length of a football field",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "13",
+    "question": "Which if these statements about cold weather driving is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "An engine cannot overheat when the weather is very cold",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Windshield washer antifreeze should be used",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Exhaust system leak are less dangerous in cold weather",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "In snowstorms, wiper blades should be adjusted so that they do not make direct contact with the windshield",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "14",
+    "question": "When driving at night, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Look to the left side of the road when a vehicle is coming toward you",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Drive faster when your low beams are on",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Adjust your speed to keep your stopping distance within you sight distance",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Dim your lights within 300 feet of an oncoming vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "15",
+    "question": "Which of these statements about downshifting is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "When you downshift for a curve, you should do so before you enter the curve",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "When you downshift for a hill, you should so after you start down the hill",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "When double-clutching, you should let the rpms decrease while the clutch is released and the shift level is in neutral",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "16",
+    "question": "For your safety, when setting out reflective triangles you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Carry the triangle at your sight",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Hold the triangles between yourself and oncoming traffic",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Keep them out of sight while you walk to the spots where you set them out",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Turn on your flasher",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "17",
+    "question": "Which of these statements about backing a heavy vehicle is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Backing is always dangerous",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should back and turn toward the driver\u2019s side whenever possible",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "You should use the helper and communicate with signals",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "18",
+    "question": "As the blood alcohol concentration (BAC)goes up, what happens:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The drinker more clearly sees how alcohol is affecting him/her",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The effects of alcohol decrease",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Judgment and self-control are effected",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "The drinker can sober up in less time",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "19",
+    "question": "What will help keep an engine cool in hot weather?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Avoiding high speed driving",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Making sure the engine has the right amount of oil",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Proper V-belt tightness",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "20",
+    "question": "Which of these is good thing to remember about using mirrors?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should look at a mirror for several seconds at a time",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Convex mirrors make things look larger and closer than they realy are",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "There are \u201cblind spots\u201d that your mirror cannot show",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "You should check you mirrors twice for a lane change",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "21",
+    "question": "Cargo that is not loaded or secured properly can cause:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Vehicle damage by overloading",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Injury to the driver during quick stops or crash",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Other highway users to hit or be hit by loose cargo",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All fo the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "22",
+    "question": "Hydroplaning:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Only occurs when there is a lot of water",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Only occurs at speeds above 50mph",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cannot occurs when driving through puddle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Is more likely if the tire pressure is low",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "23",
+    "question": "When driving through a work zone, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Turn on your flasher",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Drive slowly",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use your brake lights to warn driver behind you",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "24",
+    "question": "If you are being tailgated, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Increase you following distance",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Flash your brake lights",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Speed up",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Signal to a tailgater when it is safe to pass you",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "25",
+    "question": "A key principle to remember about loading cargo is to keep the load:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "To the front",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "To the rear",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "As high as possible",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Balance in the cargo area",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "26",
+    "question": "How far should a driver look ahead of the vehicle while driving?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "1-2 seconds",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "5-8 seconds",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "12-15 seconds",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "18-21 seconds",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "27",
+    "question": "How do you correct a rear-wheels acceleration skid?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Apply more power to the wheels",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Stop accelerating",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Apply the brakes",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Downshift",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "28",
+    "question": "The purpose of the retarders is to:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Provide emergency brakes",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Help allow the vehicle while driving and reduce brake wear",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Apply extra braking power to the non-drive axles",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Help prevent skids",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "29",
+    "question": "Controlled braking:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Can be used when you are turning sharply",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Involves locking the wheels for short period of time",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Is used to keep a vehicle in a straight line when braking",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "30",
+    "question": "Which of these is good thing to do when steering to avoid the crash?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Apply the brakes while turning",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Steer with one hand so that you can turn the wheel more quickly",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Don\u2019t turn anymore than need to clear what is in you way",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Avoid counter steering",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "31",
+    "question": "You should stop driving:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "After 5 hours",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "After 7 hours",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "After 9 hours",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Whenever you became sleepy",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "32",
+    "question": "Escape ramps are:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Are use to stop runaway vehicle",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Designed to prevent injury to driver and passengers",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Designed to prevent damage of the vehicles",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "33",
+    "question": "Which of these items is checked in a pre-trip inspection?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Whether all vehicle lights are working and are clean",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Wiper blades",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cargo securement",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "34",
+    "question": "Which of these is not a good rule to follow caring for injured persons at an accident scene?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If a qualified person is helping them, stay out of the way unless asked to assist",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Stop heavy bleeding by applying direct pressure to the wound",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Keep injured person cool",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Move severely injured person if these is a danger due to fire or passing traffic",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "35",
+    "question": "You are checking your steering and exhaust system in a pre-trip inspection. Which of these problems, if found, a   hould be fixed before the vehicle is driven:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A small leak of power steering fluid",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Leaks in the exhaust system",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Steering wheel play of more than 10 degrees (2 inches on 20 inches steering wheel)",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "36",
+    "question": "You should avoid driving through deep puddles or flowing water. But if you must, which of these steps can help keep your brakes working?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Driving through quickly",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Gently putting on the brakes while driving through the water",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Applying hard pressure on both the brake pedal and accelerator after coming out of the water",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Turning on your brake heater",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "37",
+    "question": "Which of these statements about drugs is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A driver can use any prescription drug while driving",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Amphetamine, (\u201cpep pills\u201d or \u201cbennies\u201d) can be used to help the driver stay alert",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use of drugs can lead to accident and/or arrest",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "38",
+    "question": "Which of these is good thing to remember when crossing or entering traffic with a heavy vehicle?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Heavy vehicle need large gaps in traffic than cars",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "The best way to cross the traffic is to pull the vehicle partway across the road and block one lane while waiting for the other to clear",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The heavier your load, the smaller the gap needed to cross traffic",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Because heavy vehicle are easy to see, you can count on other driver to move out of your way or slow down for you",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "39",
+    "question": "You are driving a heavy vehicle with manual transmission. You have to stop the vehicle on the shoulder while driving on an uphill grade. Which of these is a good rule to follow when putting it back in motion up the grade?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Keep the clutch slipping while slowly accelerating",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Use the parking brake to hold the vehicle until the clutch engages",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Let the vehicle roll straight backwards a few feet before you engage clutch",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Let the vehicle roll backwards a few feet before you engage the clutch, but turn the wheel so that the back moves away from the roadway",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "40",
+    "question": "You are driving a heavy vehicle. You must exit a highway using an off-ramp that curves downhill. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Slow down to a safe speed before the curve",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Slow to the posted speed limit for the off-ramp",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Come to a full stop at the top of the ramp",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Wait until you are in the curve before downshifting",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "41",
+    "question": "You must park on a side of a level, straight, four-lane divided highway. Where should you place the reflective triangles?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "One within 10 feet of the rear of the vehicle. One about 100 feet to the rear and one about 200 feet to the rear",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "One within 10 feet of the rear of the vehicle. One about 100 feet to the rear and one about 100 feet to the front of the vehicle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "One within 50 feet of the rear of the vehicle. One about 100 feet to the rear and one about 100 feet to the front of the vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "One within 10 feet of the front of the vehicle. One about 100 feet to the rear and one about 200 feet to the rear",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "42",
+    "question": "You are driving on a two-lane road. An oncoming driver drifts into your lane and is headed straight for you. Which of these is most often the best action to take?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Hard braking",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Steer into the oncoming lane",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Steer to the right",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Steer onto the left shoulder",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "43",
+    "question": "Which of these is proper use of vehicle lights?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Flashing your brakes lights to warn someone behind you that you are going to stop on the road",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Turning on your headlights during the day when visibility is reduced due to rain or snow",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Flashing your brake lights to warn someone behind you of hazard that will require slowing down",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "44",
+    "question": "Brake \u201cfade\u201d:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Can be caused by the brakes getting very hot",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Can be corrected by letting up on the brakes for 1-2 seconds and then reapplying them",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Is a problem that only occurs with drum brakes",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "45",
+    "question": "Which of these statements about engine overheating is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If your engine overheats within 20 miles of the end of your trip, you should complete the trip and then check the problem",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should never shut off an overheated engine until it cools",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "You should never remove the radiator cap on a pressured system until the system is cooled",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Antifreeze is not needed when the weather is warn",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "46",
+    "question": "Which of these statements about overhead clearance is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should assume posted clearance signs are correct",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The weight of a vehicle changes it height",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "If the road surface causes your vehicle to tilt toward objects at the edge of the road, you should drive close to the shoulder",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Extra speed will cause air to push your vehicle down for extra clearance",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "47",
+    "question": "Which of these statements about vehicle fire is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If cargo in a van or box trailer catches fire, you should open the cargo door as soon as possible",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "If your engine is on fire, you should open the hood as soon as you can",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If a tire is on fire, you should drive fast to put the flames out",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "A burning tire should be cooled with water",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "48",
+    "question": "You are driving a long vehicle that makes wide turns. You want to turn left from Pine Street on to Cedar\nStreet. Both are two-lane two-way streets. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Begin turning you vehicle as soon as you enter the intersection",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Begin turning your vehicle when you are halfway through the intersection",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Begin turn with your vehicle in the left lane of Pine Street",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Turn into the left lane of Cedar Street and then move to",
+        "flag": false
+      }
+    ],
+    "img": "/1.jpg"
+  },
+  {
+    "number": "49",
+    "question": "You must drive on a slippery road. Which of these is good thing to do in such a situation?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Use a smaller following distance",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Apply for the brakes while in curves",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Slow down gradually",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "50",
+    "question": "Which of these statements about acceleration is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "When traction is poor, more power should be applied to the accelerator",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Rough acceleration can cause mechanical damage",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "You should feel a jerking motion if you accelerate your vehicle properly",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "51",
+    "question": "Which of these statements about braking is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The heavier vehicle or the faster it is moving, the more heat the brakes have to absorb to stop it",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Brakes have more stopping power when they get very hot",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Brake drums cool very quickly when the vehicle is moving very fast",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "52",
+    "question": "When the road are slippery, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Drive alongside other vehicles",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Make turns as gently as possible",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Stop and test the traction while going up hills",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Decrease the distance that you look ahead of your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "53",
+    "question": "You are checking your brakes and suspension system for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Brakes shoes should not have oil, grease or brake fluid on them",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "One missing leaf in a leaf spring can be dangerous",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cracked drums should be replaced",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "54",
+    "question": "Which of these pieces of emergency equipment should always be carried in your vehicle?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Fire extinguisher",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Spare electrical fuses (if the vehicle uses them)",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Warning devices for parked cars",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "55",
+    "question": "Which of these can cause vehicle to skid?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Turning too sharply",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Not enough weight of the front axle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Over acceleration",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "56",
+    "question": "The driver\u2019s manual suggests several things to do, when you pass a vehicle. Which of these is not the one of them?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Lightly tap your horn",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "At night, turn on your high beams before you start to pass and leave them on until you have completely passed the vehicle",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Drive carefully to avoid a crash",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Assume that the other drive does not see you",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "57",
+    "question": "The distance that you should look ahead of your vehicle while driving amounts to about___ miles at normal highway speed.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "1/10",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "1/8",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "\u00bc",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "\u00bd",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "58",
+    "question": "You are starting your vehicle in motion for a stop.as you apply power to the drive wheels, they start to spin. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Take your foot off the acceleration",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Take your foot off the acceleration and apply the brakes",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Press harder on the acceleration",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Try a lower gear",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "59",
+    "question": "Which of these is the most important thing to remember about emergency braking?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "It helps keep the brake limings clean",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Disconnecting the steering axel will keep your vehicle in a straight line during emergency braking",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If the wheels are skidding, you cannot control your vehicle",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Never do it without downshifting first",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "60",
+    "question": "Which of these statements about tire and hot weather driving is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If a tire is too hot to touch, you should drive on it to cool it off",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should inspect your tires every two hours or every 100 miles when driving in very hot weather",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "The air pressure of a tire decreases as the temperature of the tire increases",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "I f tire is too hot to touch five or ten pounds of pressure out would cool them down",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "61",
+    "question": "You should use mirrors to check:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The condition of your tires",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Where the rear of your vehicle is while you make turns",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Traffic gaps when merging",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "62",
+    "question": "Your vehicle is in a traffic emergency and may collide  with another vehicle if you do not take action. Which of these is a good rule to remember at such a time?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You can almost always turn to miss an obstacle more quickly than you can stop",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Stopping is always the safest action in a traffic emergency",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Leaving the road is always risky than hitting another vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Unbuckle your safety belt before impact so you will not be trapped inside your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "63",
+    "question": "Which of these statements about speed management is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "On a wet road you should reduce your speed by about one third",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "On a packed snow you should reduce speed by at least one \u2013half",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "When the road is slippery, it will take longer to stop and it will be harder to turn without skidding",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "64",
+    "question": "Which fires can you use water to put out?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Tire fires",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Gasoline fires",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Electrical fires",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "65",
+    "question": "To help you stay alert while driving, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Take short breaks before you get drowsy",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Schedule trips for hours that you are normally sleep",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Take cold medicine if you have a cold",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Do all of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "66",
+    "question": "To avoid a crash, you have to drive into the right shoulder. You are now driving 40 mph on the shoulder.\nHow should you move back into the pavement?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If the shoulder is clear, stay on the right until your vehicle comes to a stop then move back into the pavement when it is safe",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Brake hard to slow the vehicle then steer sharply onto the pavement",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Steer sharply onto the pavement, than brake hard as you counter steer",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Keep moving at the present speed and steer very gently back onto the pavement",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "67",
+    "question": "Which of these statements about driving in areas with strong wind is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should drive alongside other vehicles to help brake up the wind",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The lighter your vehicle, the less trouble you will have with the wind",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Winds are especially problem when coming out of tunnels",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "You can lessen the effects of the wind by letting some air out of tires",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "68",
+    "question": "Which of these is a good thing to do when driving at night?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Keep your speed slow enough that you can stop within the range of your headlights",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Look directly at the oncoming headlights only briefly",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Wear sunglasses",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Keep your instrument lights bright",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "69",
+    "question": "You are driving a 40-foot vehicle at 35 mph. The road is dry and visibility is good. What is the least amount of space you should keep in front of your vehicle to be safe?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "2 seconds",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "3 seconds",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "4 seconds",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "5 seconds",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "70",
+    "question": "What is the proper way to hold a steering wheel?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "With one hand",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "With both hands close together, near the top of the wheel",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "With both hands close together, near the bottom of the wheel",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "With both hands on opposite sides of the wheel",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "71",
+    "question": "High beams should be:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Used when it is safe and legal to do so",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Turned on when an oncoming driver does not dim his/her lights",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Dimmed at the time that you get within 100 hundred feet of another vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "72",
+    "question": "You can see a marking on a vehicle ahead of you. The marking is a red triangle with the orange center. What does the marking mean?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "It may be a slow vehicle",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "The vehicle is hauling hazardous materials",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "It is a low enforcement vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "I t is a being driven by a student driver",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "73",
+    "question": "Which of these is not part of the pre-trip inspection of the engine compartment?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Valve clearance",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Engine oil level",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Condition of horses",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Worn electrical wiring insulation",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "74",
+    "question": "The road you are driving on becomes very slippery due to glare ice. Which of these is good thing to do in such a situation?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Stop driving as soon as you can safely do so",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Downshift to stop",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Apply the brakes often to keep the linings dry",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Keep varying your speed by acceleration and braking",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "75",
+    "question": "Which of these is a sign of tire failure?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Steering that feels heavy",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "A loud \u201cbang\u201d",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Vibration",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+    {
+    "number": "76",
+    "question": "You wish to turn right from one two-lane, two-way street to another. Your vehicle is so long that you must swing wide to make the turn. Which of these figure shows how the turn should be made?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "B",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "C",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "D",
+        "flag": false
+      }
+    ],
+    "img": "/2.jpg"
+  },
+  {
+    "number": "77",
+    "question": "You are driving a vehicle that could safely be driven at 55mph on an open road. But traffic is heavy and other vehicles drive at 35 mph, through the speed limit is 55 mph. The safest speed for your vehicle is more likely to be:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "25 mph",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "35 mph",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "45 mph",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "55 mph",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "78",
+    "question": "What is counter steering?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Turning the steering wheel counterclockwise",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Steering in the opposite direction from what other drivers expect you to do",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Using a steering axle brakes to prevent over streenig",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Turning the wheel back in the other direction after steering to avoid a traffic emergency",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "79",
+    "question": "Which of these can cause a fire?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Underinflated tires",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Loose fuel connection",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Electrical short-circuits",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "80",
+    "question": "Which of these is good thing to remember about drinking alcohol?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Alcohol first affects judgment and self-control, which are necessary for safe driving",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The chance of crashing is much greater for drivers who have been drinking than for drivers who have not",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A driver can loose his/her license for driving while drunk",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "81",
+    "question": "Which of these statements about backing a heavy vehicle is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should avoid backing whenever you can",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Helpers should be out of the driver\u2019s sight and use only voice (spoken) signals for communicate with the driver",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "It is safer to back toward the right side of the vehicle than toward the driver\u2019s side",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above a true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "82",
+    "question": "Which of these statements about marking a stopped vehicle is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If a hill a curve keeps drivers behind you from seeing the vehicle within 50 0 feet, the rear reflective triangles hould be moved down the road to give adequate warning",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "You do not need to put out reflective triangles unless the vehicle will be stopped for 30 minutes or more",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The vehicle\u2019s taillights should be kept on to warn other drivers",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above are true",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "83",
+    "question": "Which of these best describes how you should use the brake pedal on a steep downhill grade?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Light, pumping action",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Light, steady pressure",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Repeated strong pressure then release",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "With stronger pressure as the vehicle goes downhill",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "84",
+    "question": "Which of these statements about using turn signals is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "When turning, you should cancle the signal just before you make the turn",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You do not need to use your turn signal when changing  lanes in traffic on a four-lane highway",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "When turning, you should signal early",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "You should use your turn signal to mark your vehicle when it is pulled off on the side of the road",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "85",
+    "question": "Which of these statements about double clutching and shifting is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You can use the tachometer to tell you when to shift",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Double clutching should not be used when the road is slippery",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Double clutching should only be used with a heavy load",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "86",
+    "question": "Which of these would tell you that a shipment contains hazardous materials?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The name of hazard class on the shipping paper",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "A four-inches, diamond shaped hazardous materials label on the container",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A hazardous material placards on the vehicle",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "87",
+    "question": "Which of these statements about speed management is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Empty truck always stop in a shorter distance than fully loaded",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "When you double your speed (go twice as fast), it will take twice the distance to stop",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "You should choose a speed that lets you stop within the distance that you can see ahead",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "88",
+    "question": "Retarders:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Can cause the driver wheel to skid when they have poor traction",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Allow you to disconnect the steering axle brakes",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cause extra brake wear",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Work when you apply the brake pedal",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "89",
+    "question": "An enroute inspection should include checking for:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Tire overheating",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Brake overheating",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cargo securement",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "90",
+    "question": "To connect a drive wheels braking skid, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Stop braking, turn quickly, then counter steer",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Increase braking",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Increase braking, turn quickly and counter steer",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "91",
+    "question": "When exiting or entering on a curved freeway ramp, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Maintain a speed 5-10 mph under the posted speed limit",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Maintain the posted speed limit",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Slow down to at last 50% of the posted speed limit",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Go faster than the posted speed limit if you are familiar with the ramp and know your vehicle can handle it",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "92",
+    "question": "On which fires can you use the \u201c ABC\u201d fire extinguisher?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Electrical fires",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Burning liquids",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Burning clothes",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "93",
+    "question": "Which of the following vehicles will have the longest stopping distance?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Empty truck",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Loaded truck",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Bobtail tractor",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Automobile",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "94",
+    "question": "How many red reflective triangles are you required to carry?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "6",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "2",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "4",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "3",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "95",
+    "question": "You are required to inspect your truck within how many miles after beginning the trip?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "100",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "150",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "25",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "200",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "96",
+    "question": "There are two types of jack knife, they are:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Trailer",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Tractor",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Wet-road jackknife",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Both A and B",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "97",
+    "question": "The new BAC (Blood Alcohol Concentration) for commercial drivers to be considered intoxicated when driving a commercial vehicle is:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "0.04",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "0.01",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "0.05",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "0.10",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "98",
+    "question": "Where should the ignition key be during the pre-trip inspection?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "In the pocket",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "In the ignition",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "On the driver\u2019s seat",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "On the dashboard",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "99",
+    "question": "When loading a trailer, if the load is loaded all to the rear, it may result in:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wheel lockup",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Damage to steering axle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Poor traction on drive wheels",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "None of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "100",
+    "question": "Communication means:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Talking with law enforcement officers",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "To communicate your intention to other motorists",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "To talk on the CB radio",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "To talk on your mobile phone",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "101",
+    "question": "If you are convicted for driving under the influence while driving a commercial vehicle, and this is your first offence, you most likely will get:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A probation period for 1 year",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "At least one year suspension of your CDL",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "A fine of $250.00",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "A warning",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "102",
+    "question": "If you are stopped at the road side rest and found to have a BAC (Blood Alcohol Concentration), you will:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Be placed out of service for 72 hours",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Be in deep trouble with your dispatcher",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Be placed out of service for 24 hours",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Both B and C",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "103",
+    "question": "Which of the following statements about speed management is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If you double your speed, stopping distance will double",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Empty trucks and loaded trucks will have the same stopping distance",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If you double your speed, stopping distance will be increased by 4 times",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Never follow closer to a vehicle than 100 feet",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "104",
+    "question": "You are driving a long vehicle that makes wide turns. You want to make a left turn from Elm Street onto Oak Street. There are two left turn lanes (marked A and B) on Elm Street. Oak Street is a four-lane street with two lanes in each direction. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Use left turn lane A",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Use left turn lane B",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Start in the left turn lane \u201cA\u201d and swing into left turn lane \u201cB\u201d just before entering the intersection",
+        "flag": false
+      }
+    ],
+    "img": "/3.jpg"
+  },
+  {
+    "number": "105",
+    "question": "You are traveling down a long, steep hill. Your brakes get so hot that they fail. What should you do?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Downshift and pump the brake pedal",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Look for an escape ramp or escape rout",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Both of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "106",
+    "question": "The center of gravity of a load:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Should be kept as high as possible",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Can make a vehicle more likely to tip over on curve if itis high",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Is only a problem if the vehicle is overloaded",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "107",
+    "question": "To prevent a load from shifting, there should be at least one tiedown for every ____ feet of cargo.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "10",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "15",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "20",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "108",
+    "question": "While driving, ice builds up on your wipers and they no longer clean the windshield. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Keep driving and turn your defroster on",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Keep driving and spray the windshield with washer fluid",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Stop safely and fix the problem",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "109",
+    "question": "When the hydraulic brakes fail while you are driving, the system will not build up pressure and brake pedal will feel spongy or goes to the floor. What should you do?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Pump the brake pedal to generate pressure",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Push down the brake pedal as hard as you can",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Put the vehicle in neutral and set the parking brakes",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "110",
+    "question": "Which may be a sign of the tire failure?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wheels skidding",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "A loud hissing noise",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Vibration",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "111",
+    "question": "To prevent brake fade you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Coast down a hill which is not very steep",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Apply constant hard pressure on the brakes while driving downhill",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Select the gear, which will keep your vehicle to a safe speed on a deep downgrade",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "112",
+    "question": "A full stop is required at railroad crossing when:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "There are no flagman, warning signals or gate at the crossing",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The nature of cargo makes a stop mandatory under the State or Federal regulation",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "The crossing is location in the city or town with afre quent train transit",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "113",
+    "question": "When driving at night you should use your law beans when oncoming vehicle is within of how many feet?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "400",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "500",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "300",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "114",
+    "question": "When driving through a work zone you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Reduce your speed only if workers are close to the road way",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Watch for a sharp drop off",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "115",
+    "question": "Backing of a commercial vehicle is:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Always dangerous",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Is not dangerous if you don\u2019t have to turn",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Not dangerous if you have a helper",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "116",
+    "question": "When you are parking at the side of the road at night you must:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Turn on your four-way emergency flasher to warn other",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Put out your emergency warning lights within 30 minutes",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use your tailgates to give warning to other drivers",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "117",
+    "question": "You must stop on a hill or curve on a two-lane two-way road. How far should you place reflective triangles?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "As far back as necessary to other can see you",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Within 200 feet behind you",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Within 500 feet behind you",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "118",
+    "question": "Stab braking should not be used on a vehicle with:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Trailers",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Antilock brakes",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Hazardous materials",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "119",
+    "question": "Which of these statements about marking a stopped vehicle is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If a hill or curve keeps a driver behind you from seeing the vehicle within 100 feet the rear reflective triangle should be moved down the road to give adequate warning",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You must put out your emergency flashers within 5 minutes",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "The vehicle taillights should be kept on to warn drivers",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "120",
+    "question": "Sometimes you need to leave a road to avoid a hazard or emergency. When you do so you should keep in mind that:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Most shoulders are not strong enough to support heavy vehicle",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You must be unable to reenter the road because of the  gravel used on shoulders",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "It is less dangerous to drive on to shoulder than to make a collision",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "121",
+    "question": "Which of the following in NOT characteristic of the front tire failure?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Vehicle\u2019s fishtail",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Steering wheel twisting",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Cold steering",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "122",
+    "question": "Most skids:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Happen on ice",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Do not happen with radial tires",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Are caused be going too fast or to stop too quickly",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "123",
+    "question": "In a bad weather many car drivers tailgate large vehicle. What should you do?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Increase your following distance",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Lightly tape your brakes to warn the tailgater to drop back",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Speed up to distance yourself from the tailgater",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "124",
+    "question": "Which of following system should receive extra attention during winter weather inspection?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Suspension",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Exhaust",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Steering",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "125",
+    "question": "What happen to tar on the road pavement during hot weather?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Nothing",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "It becomes staining making tires stick to the road",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "It bleeds making the road surface slippery",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "126",
+    "question": "What is the best advice for a driver when a heavy fogs on curves?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Do not drive too slowly or other drivers may hit you",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Park the truck until the fog disappears",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Alternate your own high beams to improve your vision",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "127",
+    "question": "In mounting driving you will have to use a lower gear to drive safely on a grade. Which of these does NOT affect your choice of gear?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "The length of the grade",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The weight of the load",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Tire treads depth",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "128",
+    "question": "What should you do before driving on mountains?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Know escape ramps location on your way",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Unhook your steering axle brake",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Carry tire chains on your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "129",
+    "question": "Escape ramps:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Should be used by any drivers who looses braking power",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Are no designed for tractors-double trailer",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Are designed to slow vehicles so they can get back on the road at the safe speed",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "130",
+    "question": "Which of these is true about notifying the authorities after an accident occurs?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "An exact location is not necessary, just identify the road and the vehicles involved",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should notify authorities about an accident before doing anything else",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If you have a cellular phone or CB radio you should notify the authorities before exiting the vehicle",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "131",
+    "question": "If you are not sure what to use to put out hazardous materials fire you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wait for the fighters",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Use water",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use dirt",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "132",
+    "question": "Which of these is NOT danger of a rough acceleration?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Mechanical damage",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Tire damage",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Damage of a coupling",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "133",
+    "question": "Which of lights cannot be checked at the same time?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Turn signals, taillights and clearance lights",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Turn signals, brake lights and for way flashers",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Headlights, brake lights and clearance lights",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "134",
+    "question": "You are inspection hydraulic brakes. You should pump the brake pedal three times than apply firm pressure to the pedal for five seconds. If the brakes are working properly, the pedal should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Depress slightly",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Sink to the floor",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Not move",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "135",
+    "question": "Drivers of truck and tractor-trailers with cargo must check that the cargo is well secured within the first ___ miles of the trip.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "25",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "10",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "50",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "136",
+    "question": "When starting a bus on a level surface with good traction these is often no need for:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Parking brakes",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "A tire check",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Slow acceleration",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "137",
+    "question": "How the weight of the vehicle affects stopping?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Fully loaded trucks take longer to stop then empty ones but buses loaded with passengers take less distance to stop than empty one",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Brakes work the same no matter what the weight of both trucks or buses",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Empty truck take longer to stop than if loaded, but this is not the normally case for buses",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "138",
+    "question": "When you are starting to move up a hill from a stop:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Release the parking brakes as you apply engine power",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Engage the clutch and accelerate quickly",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Keep the trailer brake hand valve applied until your each 20 mph",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "139",
+    "question": "Which is a true about using a heater?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You must have at least one extra heater such as a mirror heater, battery pack heater or fuel tank heater when at a temperature below freezing",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "If you feel sleepy, warning your cab with a heater will help you stay alert",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "When driving in winter weather, you should check that the heater is working properly before starting your trip",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "140",
+    "question": "Why is a damaged exhaust system a danger?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Noise can damage the driver\u2019s ears",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Poisonous fumes can enter into the cab or sleeping compartment",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "You can pollute the air with the exhaust smoke",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "141",
+    "question": "Which of these is NOT a danger when an automatic transmission is forces into a low gear at a high speed?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A loss of engine braking effect",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Damage to the transmission",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A loss of steering control",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "142",
+    "question": "Perception distance is the distance your vehicle travels from the time:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Your eyes see a hazard to the time your foot push to the brake pedal",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "The brain tells the foot to push the brake pedal to time the foot responses",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The eyes see a hazard to the time the brain knows that this is a hazard",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "143",
+    "question": "Extra care is needed to keep your vehicle centered in your lane because commercial vehicle:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Require a lot of room to change lanes",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Are often wider than often vehicle",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Tend sway from time to time",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "144",
+    "question": "You should lightly apply your brakes to flash the brake light if:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You are about to exit the road and need to slow down",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "A police car is approaching you from the other direction",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A driver tailgates your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "145",
+    "question": "Merging on to the road is safest if you:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wait for a large enough gap in the traffic to enter the road",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Bend over into the nearest lane so the other vehicle will give you room",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Gain speed on the shoulder and then merge",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "146",
+    "question": "Which of this is NOT something you should do if your headlights are not working properly?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Leave on your high beams",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Clean your headlights",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Adjust headlights",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "147",
+    "question": "Which of the statements about backing a heavy vehicle is not true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should back and turn toward the driver\u2019s side whenever it is possible",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should use a helper and communicate with him with hand signals",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Because you cannot use your shoulder you should back slowly until you slightly bumped into the dock",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "148",
+    "question": "The distance that you should look ahead of you vehicle while driving is about ___at low speed.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "1 block",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "2 block",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "\u00bd block",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "149",
+    "question": "Which of these is correct about emergency or evasive action?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "In order to turn quickly you must have a first grip on the steering wheel",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "You can stop more quickly than you can turn to miss obstacles",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Stopping is always the safest thing to do in a traffic emergency",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "150",
+    "question": "What does emergency braking means?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Responding to a hazard by slowing the vehicle",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Pushing down the brake pedal as hard as you can",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Using the vehicle emergency brakes",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "151",
+    "question": "When driving in cold weather your tire tread should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Provide enough touch into steer and push the vehicle though snow",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Be double the depth required in normal weather",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Be checked every 100 miles or every 2 hours",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "152",
+    "question": "Which of these is true about hauling of hazardous material?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Cilinder with compressed gases should be transported under covers if these is no label on them",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Such a load should be marked with a 4 inch diamond shaped labels on the containers",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Such a load should be marked with a 4 inch circle red colored labels on the containers",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "153",
+    "question": "Which vehicle will have the most difficulties staying in its lane during strong wind?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A double with an empty trailer",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "A tractor pulling a loaded flatbed trailer",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A triple axle vehicle with cargo",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "154",
+    "question": "Why your vehicle speed naturally increases on a downgrade?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Gravity",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "The engine runs smoother",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Lack of traction",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "155",
+    "question": "During the vehicle inspection checking of ____ will NOT prevent a fire?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Battery fluid level",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Cargo ventilation",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Electrical system isolation",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "156",
+    "question": "When it is necessary to lean how a fire extinguisher works?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Before the fire happen",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Only when the fire happen",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Only when you are transporting flammable materials",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "157",
+    "question": "What is the most important reason to inspect your truck or bus?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Safety",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "To avoid being cited",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "It\u2019s the law",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "158",
+    "question": "You are checking your steering exhaust system in a pre-trip inspection. Which of these problem, if found, should be fixed before the vehicle is driven:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Steering wheel play of more than 10 degrees (2 inches on 20 inches steering wheel)",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Oil on a tire rod",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "If a gray smoke is coming out from the exhaust pipe",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "159",
+    "question": "Convex (curved) mirror:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Make objects appear closer than the really are",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Make objects appear larger than the really are",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Show a wider area than flat mirror show",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "160",
+    "question": "Why it is important shift gear correctly?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "To keep control of the vehicle",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Keep the engine warm",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Keep the engine oil flowing",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "161",
+    "question": "What three distance build up the total stopping distance of your truck or bus?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Attention distance, reaction distance, slowing distance",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Response distance, observation distance and braking distance",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Perception distance, reaction distance and braking distance",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "162",
+    "question": "Which of these action are not recommended for a left turn?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Start at the inside lane and swing right as your turn",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Use a right hand turn lane if these are two things lanes",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Start your turn in the center of the intersection",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "163",
+    "question": "When you are passing other vehicle, pedestrians or bicycles you should assume that:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "They may be moving to your traffic lane",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "They know you are trying to pass",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "They see your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "164",
+    "question": "In you mirror you see a car approaching from the rear, the next time you check mirror you do not see the car, you wish to change the lane, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wait until you are sure that car is not in your blind stop to change lane",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Ease to another lane very slowly so car beside you can get out of your way",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Assume the car left the road and changed the lane",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "165",
+    "question": "Which of these is a proper way to signal to change lane?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Signal early and change lanes slowly and smoothly",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Signal before the change and move over quickly",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Signal after you begin changing lanes and cross over slowly",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "166",
+    "question": "You are driving in an area with a few street lights. If you cannot see well with your headlights, which of these actions may help:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Find another route that is better lit ever if it is out of your way",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Turn your interior lights on and adjust your instrument lights",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use your high beams when legal and keep your interior lights off",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "167",
+    "question": "Most serious skid results from:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Driving too fast for condition",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Turning too sharply",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "An uneven load",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "168",
+    "question": "What should be true about other drivers?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Mail or delivery trucks are professional and do not pose a hazard",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Drivers who use turn signals always should be trusted to turn to direction, which they indicate",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Short term or daily rental truck drivers are often not used to the limited vision and pose a hazard",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "169",
+    "question": "What is true about bad weather and driving condition?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "When the temperature drop the bridges freeze before the road",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "The road is more slippery when the rain continues than when rain begins",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Driving conditions become more dangerous when temperature rise above freezing",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "170",
+    "question": "Which of these statements of hazard of vehicle fire is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Poor cargo ventilation may cause cargo to catch fire",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Carrying a fully charged fire extinguisher may prevent a fire",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Underinflated tire do not cause a vehicle fire",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "171",
+    "question": "You should wear a seat belt in a moving vehicle:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Only when you are driving",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "At all times",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Only when you are on a highway",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "172",
+    "question": "Which of these items is not checked for a pre-trip inspection?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "That all lights are working",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Amount of fuel in a vehicle",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Cargo securement",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "173",
+    "question": "Which of the statements about pre-trip inspection is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "When you park on a street, you should walk so your face away from an oncoming traffic",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Leave your key in the ignition so you do not lose it when you are under the truck",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "If you need to tilt the cab, secure loose things so they do not fall or brake anything",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "174",
+    "question": "Can state inspectors inspect your truck or bus?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "No",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Yes, but cannot put you out of service",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Y es and they can put you out of service if unsafe",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "175",
+    "question": "Which of the statements about cargo loading is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "A state law dictates legal weight limit",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "If cargo is loaded by the shipper a driver not responsible for his load",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The legal maximum weight allowed by the state is considered safe for all driven conditions",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "176",
+    "question": "Which of these is not required knowledge for a drive, who needs a hazardous material endorsement?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Basic chemistry",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Which products can be loaded together",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "When use placards",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "177",
+    "question": "To determine the alcohol concentration level for an individual it is necessary to know.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "How much a person weight",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "How often a person drinks alcohol",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "How old is a person",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "178",
+    "question": "Implied consent means:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You are giving your consent to inspection you vehicle for alcohol",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "It is understood that you may drink alcohol now and then",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "You give your consent to be tested for alcohol in your blood",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "179",
+    "question": "The engine brake effect is greater when the engine is____ Governed RPM and the transmission is on a ____ gear.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Near, lower",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Below, higher",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Above, lower",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "180",
+    "question": "You are driving a 40-feet vehicle at 55 mph. The road is dry and visibility is good. What is the last amount of space that you need to have in front of you vehicle?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "4 seconds",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "5 seconds",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "6 seconds",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "181",
+    "question": "What should you do if the car coming toward you  at night keeps its high beams on?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Flash you high beans at the other drivers",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Look to the right lane or edge marking of a road",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Slow down and look straight ahead in your lane",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "182",
+    "question": "If you must stop into the oncoming lane as you make a turn, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Watch for oncoming traffic",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Complete your turn without stopping",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Back up to allow the oncoming traffic to pass",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "183",
+    "question": "Which of this is true about driving in a tunnel?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Emergency flashers are required by law",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Headlights are required by law",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "There may be strong winds when exiting",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "184",
+    "question": "You should use your mirror to check:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Where the rear of vehicle is while you make turn",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "If you turning lights are working properly",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "185",
+    "question": "You should use your horn when:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If it helps to avoid a crash",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "A car is in your way",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "You want to change the lane",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "186",
+    "question": "If a coolant container is a part of pressurized system, which of these is true:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You never need to check the level coolant of such a system",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You can check the coolant level when the level is hot",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "187",
+    "question": "Which of these is a danger of crossing a railroad tracks on a dirt road?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You tires a sinking into the dirt and cannot cross the track",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You can get hung up half-way across the track",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "188",
+    "question": "The tread depth on a front steering wheels tires should be:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Not less than 4/32 inch",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "More than 6/32 inch",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Not less than 2/32 inch",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "189",
+    "question": "Your vehicle will be put out of service if ____ or more leaves in any leaf spring are missing.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "\u00bc",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "1/3",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "1/2",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "190",
+    "question": "Brake drums (or discs) must not have cracks longer than___ the width of the friction are.",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "\u00bd",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "1/3",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "1/10",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "191",
+    "question": "A hazard:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Is any road condition or other road user that may pose of danger",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Cannot turn into the emergency",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Does not need to be seen",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "192",
+    "question": "You are driving a heavy vehicle. You must exit a highway using an off ramp that curves downhill. You should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Slow to the posted speed limit for the off ramp",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Slow down to 5 mph below the posted speed limit",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Slow down to 15 mph below the posted speed limit",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "193",
+    "question": "Which of these rigs have more chances to \u201coff-track\u201d while making turn?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Tractor with a 45-feet trailer",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Tractor with two 27-feet trailers",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "A 53-feet straight truck",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "194",
+    "question": "How much space in front of you is needed while driving on a highway?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "1 second for each 10 feet of vehicle length",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "1 second for each 20 feet of vehicle length",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "1 second for each 30 feet of vehicle length",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "195",
+    "question": "Medicine used to treat the common cold:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Should only be used when driving at day time",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Often makes you sleepy and should not be used while driving",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "May still be used while driving if you use half of the regular dose",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "196",
+    "question": "Which of these should you not do in an emergency situation?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should brake in a way that keeps your vehicle in a straight line",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "It is not important how you brake in emergency situation",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "You should avoid using the brakes until your speed is down to 40 mph",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "197",
+    "question": "The primary cause of fatal crashes is:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Driving at night",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Driving while eating",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Driving to fast",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "198",
+    "question": "A car suddenly cuts in front of you, creating a hazard. Which of the actions should you NOT take?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Honk your horn and stay close behind your car",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Signal and change lanes to avoid it",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Slow down to prevent a crash",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "199",
+    "question": "What should you do when you see a hazard in the roadway ahead of you?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Steer around it and get back in your lane",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Stop quickly and pull to the side of the road",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Use your four way flashers or brake lights to warn others",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "200",
+    "question": "If your brakes fail on a down grate, you must first:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Look outside your vehicle for another means of slowing your vehicle",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Hit some object in order to stop your vehicle",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Find an escape ramp in order to exit the roadway",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "201",
+    "question": "You should always turn on your emergency four way fleshers when you:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Drive through the mountains",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Park on the side of the road",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Cross railway tracks",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "202",
+    "question": "Should brake adjustment be checked often?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "It depends on how new the brakes are",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "No, because the other brakes will make up for the air brakes when they are out of adjustment",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Yes, because the brake can get out of adjustment when they are use a lot",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "203",
+    "question": "Which of these is true about mirror adjustments?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "You should adjust your mirror before starting a trip",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "You should adjust your mirror while you are driving",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "The mirror could be adjusted correctly even if the trailers is not straight",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "204",
+    "question": "When you driving on a snow packed road, you should reduce your speed by:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "1/3",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "\u00bc",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "1/2",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "205",
+    "question": "The bridge formula:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Permits less maximum axle weight for the axles that are close together",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Permits less maximum axle weight for the axles that are far apart",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Permits the same maximum axle weight for any axle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "206",
+    "question": "Which of these is true about hours of service?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "After you have reached a thousand hours of service you\u2019ll be exempt from service regulation",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "You should allow enough hours to rest",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "You have to take a break after every two hours of driving",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "207",
+    "question": "Which of these is true about the use of drugs while driving?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Prescription or non-prescription drugs are allowed at any at any time when driving",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Use of amphetamine is allowed is you are using this drug to stay alert",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Prescription drugs are allowed if a doctor says they will not affect the driving ability",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "208",
+    "question": "Which of these is true about proper use of a steering wheel?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "If you do not hold a wheel with both hands it could pull away from you",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "If you have reached a cruising speed on a highway you can drive with one hand",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Only while attempting a difficult turn should you use  both hands on the wheel",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "209",
+    "question": "When do you need a helper to back your vehicle?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Only if you need to park",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Whenever you have to back",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Only if you have a trailer on your vehicle",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "210",
+    "question": "To avoid an accident you moved to the shoulder to return to the road:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Ride on shoulder to the next exit a and then re-enter the road",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Using mirrors and turn signals turn sharply to get back the road",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Using mirror and turn signals return when the road is clear",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "211",
+    "question": "Which of these would not help if windshield covered with ice?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Brush",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Scraper",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Defroster",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "212",
+    "question": "Which og these tell you that the shipment contains a hazardous materials?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Hazardous class in a shipping paper",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Four-inch diamond shaped tag on a containers",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Hazardous materials placards",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "213",
+    "question": "Heavy vehicles often move slower than other do. Which of these is NOT a good rule to follow while driving a heavy vehicle?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Stay on a right side of the road",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Use four-way flashers if it is legal in your state",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Signal other drivers when it is safe to pass you",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "Overpass other vehicles only if you can do it fast",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "214",
+    "question": "Why might tourists be a hazard?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "They drive rented cars",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "They may move slowly, unexpectedly change lanes or stop",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Police do not fine them",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "215",
+    "question": "What keeps an engine cool in hot weather driving",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Enough engine oil",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Air conditioner use",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "High speed driving in other to put out more air to the radiator",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "216",
+    "question": "Cargo inspections:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Are most often not the responsibility of the driver",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Should be performed after every break you take while driving",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Are needed only is hazardous materials are being hauled",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "217",
+    "question": "A vehicle is loaded a very little weight on the drive axle. What may happen?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Poor traction",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Damage to drive axle tires",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Better handling",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "218",
+    "question": "If your vehicle catches fire while you are driving, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Park in an open area",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Park where a building or trees shelter your vehicle from the wind",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Increase your speed to put out the flames",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "219",
+    "question": "Turn signals should be used:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "At least 100 feet before turning or changing lane",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "At least 150 feet before turning or changing lane",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "At least 200 feet before turning or changing lane",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "At least 500 feet before turning or changing lane",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "220",
+    "question": "Containerized loads:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Are not required to be inspected by a driver",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Should be supplied with their own tiedown device or locks",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Generally are used when freight is carried part of the way by rail or ship",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "221",
+    "question": "When driving a commercial vehicle with a high over 13 feet, you should:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Not worry about high clearance as long as you stay on state or federal highways",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Assume all clearance are high enough",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Stop and make sure if you aren\u2019t sure a clearance is high enough",
+        "flag": true
+      },
+      {
+        "id": "d",
+        "answer": "All of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "222",
+    "question": "When should you test you parking brake?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "While moving at a very low speed",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "While the vehicle is parked",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "While traveling at least 10 mph",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "When backing",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "223",
+    "question": "When going down a long or steep downgrade you should always:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Use only your trailer brakes",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Use the braking effect of the engine",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Use controlled braking",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Brake when you exceed \u201csafe speed\u201d by 5 mph",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "224",
+    "question": "Controlled braking is:",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Slamming on the brakes hard and making wheels lock up",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Squeezing the brakes firmly locking them up",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Pressing brakes until wheel lock-up occurs, releasing and then reapplying",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "None of the above",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "225",
+    "question": "If you loose braking power while going down a steep hill. What is the first thing to do?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Wait for escape bump",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Look outside your car for means to slow it down",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Try using parking brake",
+        "flag": false
+      },
+      {
+        "id": "d",
+        "answer": "Get your car off the road as soon as possible",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "226",
+    "question": "If you do not have CB radio, what is the first thing to do at the crash site?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Notify authorities",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Protect the area",
+        "flag": true
+      },
+      {
+        "id": "c",
+        "answer": "Take care of injured",
+        "flag": false
+      }
+    ]
+  },
+  {
+    "number": "227",
+    "question": "Which one of the following is correct regarding engine compartment",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Engine temperature gauge will take 3-5 min to raise to normal level",
+        "flag": false
+      },
+      {
+        "id": "b",
+        "answer": "Oil pressure gauge will take 3-5 min to raise to normal level",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Coolant temperature gauge will gradually raise to normal level",
+        "flag": true
+      }
+    ]
+  },
+  {
+    "number": "228",
+    "question": "Truck driving is regulated by certain laws, regulations restrictions. Which of the following is true?",
+    "answers": [
+      {
+        "id": "a",
+        "answer": "Laws and restrictions change from state to state",
+        "flag": true
+      },
+      {
+        "id": "b",
+        "answer": "Once you have worked for 1000 hours you can enjoy exceptions from certain rules",
+        "flag": false
+      },
+      {
+        "id": "c",
+        "answer": "Weight limit set by the state can be considered safe for all road conditions",
+        "flag": false
+      }
+    ]
+  }
+]
