@@ -57,3 +57,24 @@
 .top-btn:hover{
    background-color:  rgb(14, 80, 80);
 }
+
+@media (max-width: 678px) {
+    .header-title{
+        font-size: 32px;
+        text-align: center;
+    }
+    .user-name{
+     display: none;
+    }
+    .header-bottom{
+        padding: 8px 0 0 0;
+        margin: 0 auto;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .top-btn{
+        font-size: 16px;
+        padding: 8px 24px;
+    }
+}

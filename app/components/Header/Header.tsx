@@ -5,7 +5,7 @@ import Navigation from "../Nav/Navigation";
 export default function Header() {
     return (
       <header className="header">
-        <div className="container">
+        <div className="container container-mobile">
           <h1 className="header-title">Truck Driver English</h1>
             <div className="header-bottom">
               <div className="user">

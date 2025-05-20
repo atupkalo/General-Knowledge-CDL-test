@@ -10,3 +10,9 @@
 .nav-item:hover{
     text-decoration: underline;
 }
+
+@media (max-width: 678px) {
+  .nav-item{
+    padding: 16px 0;
+  }
+}

@@ -6,6 +6,9 @@ body {
   margin: 0;
   padding: 0;
 }
+#__next-route-announcer {
+  display: none !important;
+}
 .container{
   position: relative;
   margin: 0 auto;
@@ -22,6 +25,8 @@ span{
 }
 ul {
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 a {
   color: #ffffff;
@@ -38,4 +43,16 @@ button{
   border-radius: 8px;
   cursor: pointer;
   transition: .2;
+}
+
+@media (max-width: 678px) {
+   .container{
+    width: 98%;
+   }
+   .container-mobile{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+   }
 }
